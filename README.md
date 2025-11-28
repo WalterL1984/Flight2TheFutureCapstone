@@ -130,6 +130,15 @@ Drones offer a scalable way to:
 
 ## 📁 Repository Contents
 
+## 
+
+- 📊 [data/](./data/) — Cleaned datasets  
+- 🐍 [notebooks/](./notebooks/) — Python notebooks  
+- 📈 [powerbi/](./powerbi/) — Power BI dashboards  
+- 🎥 [media/](./media/) — Drone animations & images  
+- 📁 [outputs/](./outputs/) — Final maps and visualizations  
+
+
 
 ---
 
