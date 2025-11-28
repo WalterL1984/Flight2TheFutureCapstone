@@ -4,11 +4,21 @@ A NewForce Data Analytics Capstone Project by Walter Lovett
 
 
 
+
+
+
+
+
+
 Overview
 
 Flight to the Future is a data analytics capstone project that examines how drone technology can bridge critical infrastructure gaps in rural West Virginia. By analyzing food access, healthcare shortages, disaster vulnerability, and terrain barriers, this project builds a Drone Need Index (DNI) that identifies where drone-assisted delivery would have the greatest humanitarian impact.
 
 The project focuses on rural Appalachian communities—particularly those isolated by geography, limited broadband, medical provider shortages, and high food insecurity. The result is a data-driven roadmap for where drones should fly first during emergencies or in ongoing service delivery.
+
+
+
+
 
 
 
@@ -23,6 +33,10 @@ Develop Power BI dashboards that communicate accessibility gaps and logistical n
 Create geospatial visualizations and route simulations to demonstrate how drones can bypass terrain barriers.
 
 Provide actionable insights for nonprofits, emergency planners, and rural health organizations.
+
+
+
+
 
 
 
@@ -41,6 +55,10 @@ FRED/EAL Data, USDA Food Access Data, HRSA HPSA Data
 Google Earth Studio (drone route animation)
 
 GitHub for version control
+
+
+
+
 
 
 
@@ -98,6 +116,10 @@ Demonstrates how drones can bypass terrain barriers and reduce delivery times fo
 
 
 
+
+
+
+
 Why Drones?
 
 Rural Appalachian counties face persistent barriers:
@@ -123,6 +145,10 @@ Support food distribution programs
 Provide lightweight medical supplies
 
 Improve access in underserved counties
+
+
+
+
 
 
 
@@ -164,6 +190,10 @@ Google Earth Studio route animation
 
 
 
+
+
+
+
 Insights & Takeaways
 
 Counties like McDowell, Kanawha, and Logan show the highest combined risk.
@@ -173,6 +203,10 @@ Rural and medically underserved counties align strongly with high Drone Need Ind
 Drones represent a scalable, low-cost support tool for hard-to-reach mountain communities.
 
 Modeling suggests drones could significantly improve emergency response outcomes.
+
+
+
+
 
 
 Flight-to-the-Future/
@@ -185,6 +219,10 @@ Flight-to-the-Future/
 
 
 
+
+
+
+
 Build predictive models for disaster-related road closures
 
 Integrate DHS or FAA drone regulations
@@ -194,6 +232,10 @@ Conduct real flight tests with small UAVs
 Incorporate parcel-level accessibility metrics
 
 Connect real nonprofit delivery dataAuthor
+
+
+
+
 
 
 
