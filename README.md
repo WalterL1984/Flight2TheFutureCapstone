@@ -130,3 +130,22 @@ Drones offer a scalable way to:
 
 ## 📁 Repository Contents
 
+
+---
+
+## 🚀 Future Improvements
+
+- Predictive modeling for road closures  
+- Integration with FAA & DHS drone regulations  
+- Real-world drone test flights  
+- Parcel-level geospatial modeling  
+- Integration with nonprofit delivery logistics (e.g., ABBA’S TENT)
+
+---
+
+## 👨🏾‍💼 Author
+
+**Walter Lovett**  
+NewForce Data Analytics Cohort  
+Focused on rural innovation, humanitarian technology, and drone-based logistics.
+
