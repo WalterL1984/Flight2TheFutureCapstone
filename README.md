@@ -2,11 +2,20 @@
 
 A NewForce Data Analytics Capstone Project by Walter Lovett
 
+
+
+
+
+
 📌 Overview
 
 Flight to the Future is a data analytics capstone project that examines how drone technology can bridge critical infrastructure gaps in rural West Virginia. By analyzing food access, healthcare shortages, disaster vulnerability, and terrain barriers, this project builds a Drone Need Index (DNI) that identifies where drone-assisted delivery would have the greatest humanitarian impact.
 
 The project focuses on rural Appalachian communities—particularly those isolated by geography, limited broadband, medical provider shortages, and high food insecurity. The result is a data-driven roadmap for where drones should fly first.
+
+
+
+
 
 🎯 Project Goals
 
@@ -19,6 +28,9 @@ Use Power BI dashboards to communicate access gaps and infrastructure weaknesses
 Create geospatial visualizations and a simulated drone route to demonstrate how drones bypass terrain barriers.
 
 Provide actionable insights for nonprofits, emergency responders, and rural health organizations.
+
+
+
 
 🧰 Tools & Technologies
 
@@ -39,6 +51,9 @@ FEMA Estimated Annual Loss (EAL)
 Google Earth Studio (flight route animation)
 
 GitHub for version control
+
+
+
 
 📊 Key Visuals & Analysis Components
 1. Risk Matrix
@@ -91,6 +106,10 @@ A bar chart showing the Top 10 medical shortage sites (HPSA areas), including FC
 
 A 26-second simulated drone flight created in Google Earth Studio showing a delivery route from Charleston to Iaeger, demonstrating how drones can bypass terrain barriers and reduce emergency delivery times.
 
+
+
+
+
 🛰️ Why Drones?
 
 Rural Appalachian communities face:
@@ -115,6 +134,9 @@ Support food distribution
 
 Improve emergency response times
 
+
+
+
 🛠️ Methodology
 
 Data Collection
@@ -129,6 +151,9 @@ Power BI & Python visualizations
 
 Route simulation using Google Earth Studio
 
+
+
+
 🧭 Insights & Takeaways
 
 McDowell, Kanawha, and Logan show the highest combined need.
@@ -139,6 +164,9 @@ Drones could significantly reduce emergency delivery times in high-risk areas.
 
 The project provides a humanitarian roadmap for drone-assisted logistics.
 
+
+
+
 📁 Repository Contents
 📦 Flight-to-the-Future/
  ┣ 📊 data/                # Cleaned datasets
@@ -147,6 +175,9 @@ The project provides a humanitarian roadmap for drone-assisted logistics.
  ┣ 🎥 media/               # Drone animation & images
  ┣ 📄 README.md            # Documentation
  ┗ 📁 outputs/             # Final maps and charts
+
+
+
 
 🚀 Future Improvements
 
@@ -159,6 +190,9 @@ Real-world drone test flights
 Parcel-level geospatial modeling
 
 Integration with nonprofit delivery logistics (e.g., ABBA’S TENT)
+
+
+
 
 👨🏾‍💼 Author
 
